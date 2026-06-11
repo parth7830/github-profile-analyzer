@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Downloads\new\backend\src\main\java\com\analyzer\config\WebConfig.java
+C:\Users\LENOVO\Downloads\new\backend\src\main\java\com\analyzer\controller\ProfileController.java
+C:\Users\LENOVO\Downloads\new\backend\src\main\java\com\analyzer\dto\ContributionDTO.java
+C:\Users\LENOVO\Downloads\new\backend\src\main\java\com\analyzer\dto\GitHubUserDTO.java
+C:\Users\LENOVO\Downloads\new\backend\src\main\java\com\analyzer\dto\LanguageBreakdownDTO.java
+C:\Users\LENOVO\Downloads\new\backend\src\main\java\com\analyzer\dto\RepoDTO.java
+C:\Users\LENOVO\Downloads\new\backend\src\main\java\com\analyzer\dto\RepoScoreDTO.java
+C:\Users\LENOVO\Downloads\new\backend\src\main\java\com\analyzer\GitHubProfileAnalyzerApplication.java
+C:\Users\LENOVO\Downloads\new\backend\src\main\java\com\analyzer\service\GitHubApiClient.java
+C:\Users\LENOVO\Downloads\new\backend\src\main\java\com\analyzer\service\GitHubService.java
