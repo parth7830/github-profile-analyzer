@@ -1,0 +1,10 @@
+# Ignore local build artifacts and node dependencies
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+target/
+**/target/
+.git/
+.gitignore
+.dockerignore

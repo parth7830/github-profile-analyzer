@@ -1,0 +1,25 @@
+# Node
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+.env
+.env.local
+
+# Maven
+target/
+**/target/
+*.class
+*.jar
+*.war
+.mvn/
+
+# IDE / OS
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
+Thumbs.db
